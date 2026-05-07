@@ -35,9 +35,6 @@ Contains Preskilet video link.
 ### 📁 [Lab-Assignments](./Lab-Assignments)
 Contains all EDS laboratory assignments.
 
-### 📁 [PPT](./PPT)
-Contains presentation PPT file.
-
 ---
 
 ## Preskilet Video
