@@ -26,7 +26,7 @@ This repository contains all EDS Laboratory Assignment materials including Presk
 ### 📁 [Cisco-Certificate](./Cisco-Certificate)
 Contains CISCO course completion certificate.
 
-### 📁 [IBM-Certificate](./IBM-Certificate)
+### 📁 [IBM-Certificate](./[IBM-Certificate)
 Contains IBM course completion certificate.
 
 ### 📁 [Preskilet-Video](./Preskilet-Video)
